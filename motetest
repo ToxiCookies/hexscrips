@@ -1,0 +1,10 @@
+{
+    {
+        //Gets every itemtype in the Nexus
+        Stocktake Purification
+        Flock's Disintegration
+    }
+    //Purifies the Nexus List into the motes and their amounts
+    Stocktake Reflection
+    Thoth's Gambit
+}
