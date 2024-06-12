@@ -1,8 +1,17 @@
-#define Recipient's Revelation (WEST edew) = -> [Mote Nexus]
-
 {
     //Macro to reveal whats in your Mote Nexus
-    Recipient's Revelation
+    {
+        {
+            //Gets every itemtype in the Nexus
+            Stocktake Purification
+            Flock's Disintegration
+        }
+        //Purifies the Nexus List into the motes and their amounts
+        Stocktake Reflection
+        Thoth's Gambit
+    }
+    Hermes' Gambit
+    Reveal
     {
         //purifies only the chat input and not the mote nexus with it
         Flock's Reflection
@@ -31,6 +40,15 @@
     Jester's Gambit
     //Return Item & return the new value of the nexus
     Return Item
-    Recipient's Revelation
+    {
+        {
+            //Gets every itemtype in the Nexus
+            Stocktake Purification
+            Flock's Disintegration
+        }
+        //Purifies the Nexus List into the motes and their amounts
+        Stocktake Reflection
+        Thoth's Gambit
+    }
     Reveal
 }
