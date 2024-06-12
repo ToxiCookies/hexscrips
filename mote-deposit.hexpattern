@@ -14,18 +14,18 @@
     Augur's Purification
     //If it is, mediafy it and merge it with the pre-existing mote
     {
-        Numerical Reflection: 0
+        Numerical Reflection(0)
         Selection Distillation
         Jester's Gambit
         Mediafy Item
         Stacking Distillation
-        Bookkeeper's Gambit: \/
+        Bookkeeper's Gambit(v)
     }
     //If it isn't, mediafy it on its own
     {
-        Bookkeeper's Gambit: -\/
+        Bookkeeper's Gambit(-v)
         Mediafy Item
-        Bookkeeper's Gambit: \/
+        Bookkeeper's Gambit(v)
     }
     Augur's Exaltation
     Hermes' Gambit
