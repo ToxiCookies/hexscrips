@@ -1,4 +1,3 @@
-#define Recipient's Revelation (WEST edew) = -> [Mote Nexus]
 {
     //Gets the item entity you are looking at
     Mind's Reflection
@@ -30,8 +29,17 @@
     Augur's Exaltation
     Hermes' Gambit
     {
-        Recipient's Revelation
+        {
+            //Gets every itemtype in the Nexus
+            Stocktake Purification
+            Flock's Disintegration
+        }   
+        //Purifies the Nexus List into the motes and their amounts
+        Stocktake Reflection
+        Thoth's Gambit
     }
+    Hermes' Gambit
+    Reveal
     Hermes' Gambit
     Reveal
 }
