@@ -1,4 +1,4 @@
-#wget(Macrodiums/isolation-gmbt)(https://raw.githubusercontent.com/ToxiCookies/hexscrips/main/isolation-gambit-MM)
+#wget(Macrodiums/isolation-gmbt.hexpattern)(https://raw.githubusercontent.com/ToxiCookies/hexscrips/main/isolation-gambit-MM.hexpattern)
 Scrivener's Purification
 Spacing Reflection
 Separation Distillation
@@ -6,7 +6,7 @@ Numerical Reflection(2)
 Numerical Reflection(5)
 Selection Exaltation
 {
-    #file(Macrodiums/isolation-gmbt)
+    #file(Macrodiums/isolation-gmbt.hexpattern)
     Comma Reflection
     Separation Distillation
     Flock's Disintegration
@@ -30,7 +30,7 @@ Rotation Gambit II
 Numerical Reflection(3)
 Flock's Gambit
 {
-    #file(Macrodiums/isolation-gmbt)
+    #file(Macrodiums/isolation-gmbt.hexpattern)
     Input Purification
 }
 Jester's Gambit
