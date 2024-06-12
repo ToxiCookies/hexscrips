@@ -1,0 +1,36 @@
+#define Recipient's Revelation (WEST edew) = -> [Mote Nexus]
+
+{
+    //Macro to reveal whats in your Mote Nexus
+    Recipient's Revelation
+    {
+        //purifies only the chat input and not the mote nexus with it
+        Flock's Reflection
+        Flock's Gambit
+        Retrograde Purification
+        Numerical Reflection: 0
+        Selection Distillation
+        Input Purification
+    }
+    // Grabs the chat input and finishes the purification
+    Whisper Reflection
+    Comma Reflection
+    Spacing Reflection
+    Concatenation Distillation
+    Separation Distillation
+    Thoth's Gambit
+    Flock's Disintegration
+
+    //Returns the Item indexed at the first number in chat and moves the stack around properly
+    Rotation Gambit II
+    Selection Distillation
+    Jester's Gambit
+    //Grabs the location of your feet and returns y amount of item x from your mote nexus to you
+    Mind's Reflection
+    Compass' Purification II
+    Jester's Gambit
+    //Return Item & return the new value of the nexus
+    Return Item
+    Recipient's Revelation
+    Reveal
+}
